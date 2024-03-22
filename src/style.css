@@ -115,9 +115,6 @@ img {
 }
 
 @media (max-width: 500px) {
-  img {
-    display: none;
-  }
   body {
     text-align: center;
   }
